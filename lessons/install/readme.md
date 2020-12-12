@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+As the lesson said, all of the prework for Python is configured for Python 3 only, so it was recommended.  I've also used Python3 for the self-teaching and tutorials I've done in Python so far, so I feel most comfortable with Python 3.
 
 ### Q2. Which Python Version Installed   
 
@@ -55,8 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
+Python 3.8.5
  
 
 
