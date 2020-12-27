@@ -26,3 +26,8 @@ Answer: 1.024
 print(biased_pmf_num.Mean())  
 Answer: 2.404  
 
+![Code 1]  
+(/Users/patrickbovard/Desktop/Ex3.1 Image 1.png)  
+![Code 2]    
+(/Users/patrickbovard/Desktop/Ex3.1 Image 2.png)   
+
