@@ -108,8 +108,18 @@ This calculation comes out to:
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
+**My Answer:**  
+Frequentist statistics are the types of stats we have used in Thinkstats, where a test statistic  
+is compared to a p-value in order to accept or fail to reject a null hypothesis.  Basically,   
+frequentist statistics tell you the likelihood of whether something occurred due to chance,   
+or if there is stastical significance to the results.  They do not tell you the likelihood of an  
+even to occur.  
+  
+On the other hand, Bayesian statistics give the likelihood, or probability, that an event will  
+occur or a condition be met.  Bayesian stats use probabilities based on data to give likelihood  
+of events to occur.  This is the major difference between these two types of statistics, in that   
+Frequentist gives you an idea of whether there is significance to the results you are seeing,  
+while Bayesian tells you how likely an event is to occur, simply put.
 ---
 
 ## <a name="section-e"></a>5.  Optional Exercises
